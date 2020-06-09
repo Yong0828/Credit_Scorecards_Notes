@@ -7,7 +7,7 @@
 
 <br/>
 
-#### 学习参考资料：
+#### 参考书籍：
 
 > [1] Naeem Siddiqi. Intelligent Credit Scoring：John Wiley & Sons, Inc.
 >
@@ -30,5 +30,16 @@
 > [10] 梅子行. 智能风控-原理、算法与工程实践：机械工业出版社
 >
 > [11] 梅子行 毛鑫宇. 智能风控-Python金融风险管理与评分卡建模：机械工业出版社
->
-> 
+
+<br/>
+
+#### 参考专栏：
+
+> - [风控模型算法](https://zhuanlan.zhihu.com/c_1156982447794233344)
+> - [大数据风控](https://zhuanlan.zhihu.com/sun-energy-field)
+> - [大数据量化风控](https://zhuanlan.zhihu.com/c_1185508182855680000)
+> - [来FAL学风险控制](https://zhuanlan.zhihu.com/c_1172937060171612160)
+> - [小菜鸟的『互联网金融』笔记](https://zhuanlan.zhihu.com/cainiao)
+> - [风险狗的数据分析之路](https://zhuanlan.zhihu.com/loan-analytics)
+> - [大数据风控与机器学习](https://zhuanlan.zhihu.com/c_1080789155063054336)
+> - [数据化风控](https://zhuanlan.zhihu.com/c_1182265795270283264)
